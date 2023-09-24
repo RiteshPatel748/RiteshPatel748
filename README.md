@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--# Ritesh Patel
-
-[![Profile Image](https://avatars.githubusercontent.com/RiteshPatel748)](https://github.com/RiteshPatel748)-->
 # Hi, I'm Ritesh Patel! 👋
+
+[![Profile Image](https://avatars.githubusercontent.com/RiteshPatel748)](https://github.com/RiteshPatel748)
 
 [![Linkedin](https://img.shields.io/badge/-Ritesh%20Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-patel-116911259/)](https://www.linkedin.com/in/ritesh-patel-116911259/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff69b4)](https://riteshpatel748.github.io/Portfolio/)
@@ -97,8 +96,7 @@ I'm excited to share the story of creating this site in just 2 hours, with a lit
 
 ## 🌟 GitHub Activity Overview
 
-Here's an overview of my GitHub activity and contributions:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RiteshPatel748&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPatel748&layout=compact&theme=algolia)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RiteshPatel748&theme=White) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPatel748&layout=compact&theme=white)
 
 ## Get in Touch
 
