@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<--# Ritesh Patel
+<!--# Ritesh Patel
 
 [![Profile Image](https://avatars.githubusercontent.com/RiteshPatel748)](https://github.com/RiteshPatel748)-->
 # Hi, I'm Ritesh Patel! 👋
