@@ -63,31 +63,31 @@ As a developer, I love to explore different areas of expertise. Let's have a loo
 
 ### EcommersGroceryApp
 
-[![Repos Badge](https://img.shields.io/badge/Repos-lightgrey)](https://github.com/RiteshPatel748/E-commers_GroceryApp)
+[![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/E-commers_GroceryApp)
 
 A React Native e-commerce grocery app that uses Amazon Cognito for authentication and AWS Amplify for data storage.
 
 ### TextRecognition
 
-[![Repos Badge](https://img.shields.io/badge/Repos-lightgrey)](https://github.com/RiteshPatel748/TextRecognition)
+[![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/TextRecognition)
 
 A React Native app for text recognition and translation.
 
 ### Tic-Tac-Toe
 
-[![Repos Badge](https://img.shields.io/badge/Repos-lightgrey)](https://github.com/RiteshPatel748/Tic_Tac_Toe_App)
+[![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/Tic_Tac_Toe_App)
 
 A React Native game of Tic-Tac-Toe.
 
 ### Find My Train App
 
-[![Repos Badge](https://img.shields.io/badge/Repos-lightgrey)](https://github.com/RiteshPatel748/TrainApp)
+[![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/TrainApp)
 
 MyTrain is more than just an app; it's a must-have companion for anyone traveling by train. Whether you're commuting for work, embarking on a journey of exploration, or planning a family vacation, MyTrain ensures that you're always connected to the latest train information. From finding trains between stations to tracking their live locations, MyTrain redefines the way you experience railway travel, making your journey safer, more informed, and ultimately, more enjoyable. Download the app today and embark on a smarter way to travel by train.
 
 ### Portfolio Website
 
-[![Repos Badge](https://img.shields.io/badge/Repos-lightgrey)](https://github.com/RiteshPatel748/Portfolio_website)
+[![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/Portfolio_website)
 
 I'm excited to share the story of creating this site in just 2 hours, with a little help from technology and innovation. I used React for the front end. What's interesting is that I even incorporated ChatGPT, an AI language model, to assist me in the development process. With its help, I was able to quickly generate code snippets, design ideas, and even come up with content for this website.
 
