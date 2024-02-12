@@ -1,105 +1,47 @@
+<p align="center"><img align = "center" alt = "coding" width = "500" src = "https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"></p>
+<h1 align="center">Hi 👋, I'm Ritesh Patel</h1>
+<h3 align="center">A passionate full stack developer </h3>
+<img align = "right" alt = "codingg" width = "400" src = "https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif">
 
-<!--
-**RiteshPatel748/RiteshPatel748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RiteshPatel748&label=Profile%20views&color=0e75b6&style=flat" alt="RiteshPatel748" />  <a href="https://www.linkedin.com/in/ritesh-patel-developer/" target="blank"><img src="https://img.shields.io/badge/-Ritesh%20Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-patel-developer" alt="@_ritesh_patel_" /></a></p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/@_ritesh_patel_" target="blank"><img src="https://img.shields.io/twitter/follow/@_ritesh_patel_?logo=twitter&style=for-the-badge" alt="@_ritesh_patel_" /></a></p>
+- 🌱 I’m currently learning **DSA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Ritesh Patel! 👋
+- 👨‍💻 All of my projects are available at [https://RiteshPatel748.github.io/Portfolio/](https://RiteshPatel748.github.io/Portfolio/)
 
-[![Profile Image](https://avatars.githubusercontent.com/RiteshPatel748)](https://github.com/RiteshPatel748)
+- 📫 How to reach me **patelritesh748@gmail.com**
 
-[![Linkedin](https://img.shields.io/badge/-Ritesh%20Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-patel-116911259/)](https://www.linkedin.com/in/ritesh-patel-116911259/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff69b4)](https://riteshpatel748.github.io/Portfolio/)
+- ⚡ Fun fact **As a programmer, you have a superpower: the ability to turn caffeine into code!**
 
-I'm a software engineer with a passion for building high-quality, user-friendly applications. I have experience with a variety of technologies, including React Native, React, AWS Amplify, and Node.js. I'm also interested in machine learning and artificial intelligence. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@_ritesh_patel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_ritesh_patel_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritesh-patel-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucky-dubey-510174257" height="30" width="40" /></a>
+<a href="https://instagram.com/_ritesh_patel_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ritesh_patel_0" height="30" width="40" /></a>
+<a href="https://leetcode.com/Ritesh_Patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Ritesh_Patel/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/patelhunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/patelhunter" height="30" width="40" /></a>
+</p>
 
-## 🌐 Welcome to my GitHub!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
 
-I'm excited to have you here. Let me give you a brief introduction to my GitHub profile and projects. 🚀
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiteshPatel748&show_icons=true&locale=en&layout=compact" alt="RiteshPatel748" /></p>
 
-## About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RiteshPatel748&show_icons=true&locale=en" alt="RiteshPatel748" /></p>
 
-I am a mobile and web developer with experience in React Native, AWS Amplify, C++, JavaScript, and C. I am passionate about building innovative and user-friendly applications, and I am always looking for new challenges. I am a team player and I am always eager to learn new things. I derive immense pleasure from creating new projects that challenge my intellect, and I find joy in mentoring fellow enthusiasts.
-
-## 📚 Education & Certifications
-
-
-**2024**
-
-MASTERS OF COMPUTER APPLICATION ~ RGPV UNIVERSITY
-Pursuing Masters of Computer Application from Shri Ram Institute of Technology specializing in Computer Science to gain knowledge of core subjects like Java, DSA, DBMS, SQL, etc.
-
-Grade: 7.53/10 CGPA
-
-
-**2022**
-
-BACHELOR OF SCIENCE ~ RDVV UNIVERSITY
-Completed Bachelor of Science from Govt. Model Science College in Computer Science to gain knowledge of core subjects like C, C++, etc.
-
-Grade: 74.55%
-
-
-**2019**
-
-HIGHER SECONDARY SCHOOL ~ SARASWATI HIGHER SECONDARY SCHOOL, GOTEGAON
-PCM Grade: 84.6%
-
-
-**2017**
-
-SECONDARY SCHOOL ~ SARASWATI HIGHER SECONDARY SCHOOL, GOTEGAON
-
-Grade: 89.3%
-
-## 💻 Skill
-# ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C Language](https://img.shields.io/badge/-C%20language-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-00599C?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-F7DF1E?style=flat-square) ![Database Management](https://img.shields.io/badge/-DBMS-808080?style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-## 🏆 Certifications:
-- C++ certification from Cisco Networking Academy
-- JavaScript certification from Cisco Networking Academy
-- Python certification from Cisco Networking Academy
-- SQL Basic certification from HackerRank
-
-As a developer, I love to explore different areas of expertise. Let's have a look at some of my noteworthy projects and contributions.
-
-## 💼 Projects & Highlights
-
-### EcommersGroceryApp [![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/E-commers_GroceryApp)
-
-A React Native e-commerce grocery app that uses Amazon Cognito for authentication and AWS Amplify for data storage.
-
-### TextRecognition [![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/TextRecognition)
-
-A React Native app for text recognition and translation.
-
-### Tic-Tac-Toe [![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/Tic_Tac_Toe_App)
-
-A React Native game of Tic-Tac-Toe.
-
-### Find My Train App [![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/TrainApp)
-
-MyTrain is more than just an app; it's a must-have companion for anyone traveling by train. Whether you're commuting for work, embarking on a journey of exploration, or planning a family vacation, MyTrain ensures that you're always connected to the latest train information. From finding trains between stations to tracking their live locations, MyTrain redefines the way you experience railway travel, making your journey safer, more informed, and ultimately, more enjoyable. Download the app today and embark on a smarter way to travel by train.
-
-### Portfolio Website [![Repos Badge](https://img.shields.io/badge/Repos-light)](https://github.com/RiteshPatel748/Portfolio_website)
-
-I'm excited to share the story of creating this site in just 2 hours, with a little help from technology and innovation. I used React for the front end. What's interesting is that I even incorporated ChatGPT, an AI language model, to assist me in the development process. With its help, I was able to quickly generate code snippets, design ideas, and even come up with content for this website.
-
-## 🌟 GitHub Activity Overview
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RiteshPatel748&theme=White) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPatel748&layout=compact&theme=white)
-
-## Get in Touch
-
-Feel free to reach out to me via LinkedIn or email. I'm always open to new opportunities and collaborations. Let's connect and build amazing things together! ✨
-
-[![Linkedin](https://img.shields.io/badge/-Ritesh%20Patel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-patel-116911259/)](https://www.linkedin.com/in/ritesh-patel-116911259/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshPatel748&" alt="RiteshPatel748" /></p>
