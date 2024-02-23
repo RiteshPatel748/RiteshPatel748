@@ -1,6 +1,6 @@
-<p align="center"><img align = "center" alt = "coding" width = "500" src = "https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 <h1 align="center">Hi 👋, I'm Ritesh Patel</h1>
-<h3 align="center">A passionate full stack developer </h3>
+<h3 align="center">A passionate Full Stack React Native developer </h3>
 <img align = "right" alt = "codingg" width = "400" src = "https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiteshPatel748&label=Profile%20views&color=0e75b6&style=flat" alt="RiteshPatel748" />  <a href="https://www.linkedin.com/in/ritesh-patel-developer/" target="blank"><img src="https://img.shields.io/badge/-Ritesh%20Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-patel-developer" alt="@_ritesh_patel_" /></a></p>
