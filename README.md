@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiteshPatel748&label=Profile%20views&color=0e75b6&style=flat" alt="RiteshPatel748" />  <a href="https://www.linkedin.com/in/ritesh-patel-developer/" target="blank"><img src="https://img.shields.io/badge/-Ritesh%20Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-patel-developer" alt="@_ritesh_patel_" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/@_ritesh_patel_" target="blank"><img src="https://img.shields.io/twitter/follow/@_ritesh_patel_?logo=twitter&style=for-the-badge" alt="@_ritesh_patel_" /></a></p>
-- 🌱 I’m currently learning **DSA**
+<!--- - 🌱 I’m currently learning **DSA**---!>
 
 - 👨‍💻 All of my projects are available at [https://RiteshPatel748.github.io/Portfolio/](https://RiteshPatel748.github.io/Portfolio/)
 
